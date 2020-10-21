@@ -7,15 +7,15 @@
 ¡Hola!
 Mi nombre es Eric, y soy un estudiante de Desarrollo Web Fullstack.
 
-Tengo 18 años, y comencé mi proceso de aprendizaje cuando tenía 15 años.
+Tengo 19 años, y mi curiosidad por el mundo de la programacion comenzo a los 15 años.
 
-Con curiosidad sobre cómo se crean los videojuegos, llegué a "Unity 3D", un motor de videojuegos sencillo donde podías aprender a crear juegos de forma muy sencilla.
+Con curiosidad sobre cómo poder crear mi propio videojuego, llegué a "Unity 3D", un motor de videojuegos donde podías aprender a crear juegos.
 
 Hoy en día terminé en un área completamente diferente, como lo es el desarrollo de páginas y aplicaciones web. Pero no abandono mi deseo de aprender a hacer videojuegos profesionales.
 
 ---
 
-Me encuentro estudiando Desarrollo Web Full Stack en una Bootcamp online llamada SoyHenry, donde estudio las siguientes tecnologías:
+Me encuentro estudiando Desarrollo Web Full Stack en una Bootcamp online llamado HENRY, donde estudio las siguientes tecnologías:
 
 - **Git:** Aprendemos sus comandos básicos y utilizamos github como plataforma principal del curso, por lo que aprendemos a utilizarla teórica y practicamente.
 - **Javascript avanzado:** Comenzando por estructuras de datos y algoritmos, pasando por Hoisting y Closures, y llegando a Promesas, functiones constructoras, ES6, Programación orientada a objetos, etc.
