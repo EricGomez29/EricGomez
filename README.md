@@ -5,11 +5,11 @@
 ---
 
 ¡Hola!
-Mi nombre es Eric, y soy un estudiante de Desarrollo Web Fullstack.
+Mi nombre es Eric, y soy un Desarrollador Web Fullstack.
 
-Tengo 19 años, y mi curiosidad por el mundo de la programacion comenzo a los 15 años.
+Tengo 19 años, y mi curiosidad por el mundo de la programación comenzó a los 15 años.
 
-Con curiosidad sobre cómo poder crear mi propio videojuego, llegué a "Unity 3D", un motor de videojuegos donde podías aprender a crear juegos.
+Con curiosidad sobre cómo poder crear mi propio videojuego, llegué a "Unity 3D", un motor de videojuegos donde podías aprender a crear juegos de manera sencilla.
 
 Hoy en día terminé en un área completamente diferente, como lo es el desarrollo de páginas y aplicaciones web. Pero no abandono mi deseo de aprender a hacer videojuegos profesionales.
 
@@ -30,4 +30,3 @@ Estudié Desarrollo Web Full Stack en un Bootcamp online llamado HENRY, donde ap
 - **PostgreSQL:** Diseño e implementación de base de datos relacional, tambíen conocimos y utilizamos MySql.
 . **Sequelize:** Agilización en la implementación de bases de datos relacionales, creación de modelos que pueden ser entendidos por cualquier persona, interacción con la base de datos de manera sencilla.
 - **Redis** Conocimientos mínimos para poder desarrollar un cache para un mini e-commerce utilizando una API pública.
-- **Iré actualizando esta sección con cada cosa nueva que aprenda.**
