@@ -30,3 +30,17 @@ Estudié Desarrollo Web Full Stack en un Bootcamp online llamado HENRY, donde ap
 - **PostgreSQL:** Diseño e implementación de base de datos relacional, tambíen conocimos y utilizamos MySql.
 . **Sequelize:** Agilización en la implementación de bases de datos relacionales, creación de modelos que pueden ser entendidos por cualquier persona, interacción con la base de datos de manera sencilla.
 - **Redis** Conocimientos mínimos para poder desarrollar un cache para un mini e-commerce utilizando una API pública.
+
+---
+## Experiencia profesional
+
+### Billetera Yacaré (01/02/2021 - Actualidad)
+
+Actualmente me encuentro participando y aportando de mis conocimientos en un proyecto llamado Yacaré. 
+Yacaré es una billetera digital en el cual se hace mucho foco en la utilización de códigos QRs y la interoperabilidad de los pagos para así hacer mas fácil y práctico abonar servicios a comercios, ya sean de la misma billetera o no.
+Mi puesto en Yacaré es como Frontend developer en la cual me encuentro activamente modificando y manteniendo las diferentes vistas de toda la web con las siguientes tecnologías:
+
+- **Angular**: En su versión 7 es la principal tecnología de nuestra web, gracias a Yacaré aprendí a manejar de una forma muy efectiva esta tecnología, principalmente al realizar un re-branding completo de toda la web.
+- **Typescript**: Para implementar y hacer mas eficiente el uso de Angular, creemos que este es el lenguaje ideal para poder manejar bien todo tipo de modelos, clases y componentes dentro de nuestra web.
+
+Si bien mi puesto principal es como Frontend, también tengo conocimientos en el manejo de base de datos relacional con SQL, en la actualidad puedo ejecutar sentencias SQL para la creación o modificación de datos asi como tambien consultarlos, durante mis primeros 6 meses en Yacaré pude participar en la creación de algunos endpoints y modificacion de otros con **Java 11** y **Springboot**.
